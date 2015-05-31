@@ -6,9 +6,9 @@ using Microsoft.Data.Entity;
 using Microsoft.Data.Entity.Metadata;
 using Microsoft.Data.Entity.Metadata.Builders;
 using Microsoft.Data.Entity.Relational.Migrations.Infrastructure;
-using aspnet-bootstrap-less.Models;
+using AspNetBootstrapLess.Models;
 
-namespace aspnet-bootstrap-less.Migrations
+namespace AspNetBootstrapLess.Migrations
 {
     [ContextType(typeof(ApplicationDbContext))]
     partial class ApplicationDbContextModelSnapshot : ModelSnapshot

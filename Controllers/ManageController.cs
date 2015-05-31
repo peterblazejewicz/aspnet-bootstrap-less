@@ -7,10 +7,10 @@ using System.Security.Principal;
 using Microsoft.AspNet.Authorization;
 using Microsoft.AspNet.Identity;
 using Microsoft.AspNet.Mvc;
-using aspnet-bootstrap-less;
-using aspnet-bootstrap-less.Models;
+using AspNetBootstrapLess;
+using AspNetBootstrapLess.Models;
 
-namespace aspnet-bootstrap-less.Controllers
+namespace AspNetBootstrapLess.Controllers
 {
     [Authorize]
     public class ManageController : Controller

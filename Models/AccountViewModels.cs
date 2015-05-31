@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 using System.ComponentModel.DataAnnotations;
 using Microsoft.AspNet.Mvc.Rendering;
 
-namespace aspnet-bootstrap-less.Models
+namespace AspNetBootstrapLess.Models
 {
     public class ExternalLoginConfirmationViewModel
     {

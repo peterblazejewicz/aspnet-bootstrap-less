@@ -20,9 +20,9 @@ using Microsoft.Framework.DependencyInjection;
 using Microsoft.Framework.Logging;
 using Microsoft.Framework.Logging.Console;
 using Microsoft.Framework.Runtime;
-using aspnet-bootstrap-less.Models;
+using AspNetBootstrapLess.Models;
 
-namespace aspnet-bootstrap-less
+namespace AspNetBootstrapLess
 {
     public class Startup
     {

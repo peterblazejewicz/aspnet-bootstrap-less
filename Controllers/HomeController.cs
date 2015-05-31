@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNet.Mvc;
 
-namespace aspnet-bootstrap-less.Controllers
+namespace AspNetBootstrapLess.Controllers
 {
     public class HomeController : Controller
     {

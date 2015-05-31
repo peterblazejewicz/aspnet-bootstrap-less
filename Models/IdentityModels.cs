@@ -8,7 +8,7 @@ using Microsoft.Data.Entity;
 using Microsoft.Data.Entity.Metadata;
 using Microsoft.Framework.OptionsModel;
 
-namespace aspnet-bootstrap-less.Models
+namespace AspNetBootstrapLess.Models
 {
     // Add profile data for application users by adding properties to the ApplicationUser class
     public class ApplicationUser : IdentityUser

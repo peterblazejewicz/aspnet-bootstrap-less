@@ -7,7 +7,7 @@ using Microsoft.AspNet.Http.Authentication;
 using Microsoft.AspNet.Identity;
 using Microsoft.AspNet.Mvc.Rendering;
 
-namespace aspnet-bootstrap-less.Models
+namespace AspNetBootstrapLess.Models
 {
     public class IndexViewModel
     {

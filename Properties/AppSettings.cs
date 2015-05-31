@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace aspnet-bootstrap-less
+namespace AspNetBootstrapLess
 {
     public class AppSettings
     {

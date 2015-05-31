@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNet.Mvc;
 
-namespace aspnet-bootstrap-less.Compiler.Preprocess
+namespace AspNetBootstrapLess.Compiler.Preprocess
 {
     // Uncomment the following class to enable pre-compilation of Razor views.
     // Pre-compilation may reduce the time it takes to build and launch your project.

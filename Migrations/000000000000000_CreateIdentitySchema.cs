@@ -9,9 +9,9 @@ using Microsoft.Data.Entity.Relational.Migrations;
 using Microsoft.Data.Entity.Relational.Migrations.Builders;
 using Microsoft.Data.Entity.Relational.Migrations.Infrastructure;
 using Microsoft.Data.Entity.Relational.Migrations.Operations;
-using aspnet-bootstrap-less.Models;
+using AspNetBootstrapLess.Models;
 
-namespace aspnet-bootstrap-less.Migrations
+namespace AspNetBootstrapLess.Migrations
 {
     public partial class CreateIdentitySchema : Migration
     {
