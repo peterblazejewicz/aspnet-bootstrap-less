@@ -1,0 +1,10 @@
+{
+    "AppSettings": {
+        "SiteTitle": "aspnet-bootstrap-less"
+    },
+    "Data": {
+        "DefaultConnection": {
+            "ConnectionString": "Server=(localdb)\\mssqllocaldb;Database=aspnet5-aspnet-bootstrap-less-915f91ce-3b49-4be6-825a-686490acd920;Trusted_Connection=True;MultipleActiveResultSets=true"
+        }
+    }
+}
